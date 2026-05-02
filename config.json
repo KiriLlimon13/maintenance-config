@@ -1,2 +1,4 @@
 {
-  "maintenance": false
+  "maintenance": true,
+  "message": "Идёт тех. перерыв, зайдите позже"
+}
